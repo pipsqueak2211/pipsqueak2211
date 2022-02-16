@@ -1,5 +1,4 @@
-### Hi there 👋
-
+#
 <!--
 **pipsqueak2211/pipsqueak2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
